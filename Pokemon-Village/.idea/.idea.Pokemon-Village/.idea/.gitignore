@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.Pokemon-Village.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\Mamadou Diallo\Desktop\City Tech\MTEC 3230- Mixed Reality for Immersive Worlds\Pokemon-Village\Pokemon-Village\.idea\.idea.Pokemon-Village\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
