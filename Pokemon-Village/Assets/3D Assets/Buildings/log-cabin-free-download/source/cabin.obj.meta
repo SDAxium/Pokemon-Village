@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: c50016822d819ac418e43ea07309b165
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logs.001
+    second: {fileID: 2100000, guid: 88fd6603fb8a71040bb83a5b6c2441a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logs_big.001
+    second: {fileID: 2100000, guid: b22eac5826f2ef24d82730c4ca821a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logs_end.001
+    second: {fileID: 2100000, guid: 2c45ab93b3dc6af4b9fa2b785fafbbd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nordic_Moss.001
+    second: {fileID: 2100000, guid: 69b2d4048f3f21942baf54afb66dd83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prism_Glass.006
+    second: {fileID: 2100000, guid: 1ada46e079282c745a82c55e5ef09bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prism_Glass.007
+    second: {fileID: 2100000, guid: 4d4652ce41b514046bad943d9e803e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prism_Glass_medium.001
+    second: {fileID: 2100000, guid: 83d8cf118d9f5c846b849f0d265e9548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prism_Glass_small.001
+    second: {fileID: 2100000, guid: f76e17f45f8986c42be93c6d1092dcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shtora2.001
+    second: {fileID: 2100000, guid: b6141f94fa106fb4486502a29e0fb227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood.001
+    second: {fileID: 2100000, guid: 12117c60964c31943b579cf65cf11830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _nail.003
+    second: {fileID: 2100000, guid: 7d4b8f11df1164442b42da8c8af5b935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _nail.004
+    second: {fileID: 2100000, guid: a80594fb3b097b24d940931f3b0a61b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _nail.005
+    second: {fileID: 2100000, guid: 8c248d829c977bb49ad0b3ae7aa1cfca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_pebbles.001
+    second: {fileID: 2100000, guid: a230d8507878fad4d96a4809b4ea1497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cut_processed_wood.001
+    second: {fileID: 2100000, guid: 8102dd6af75cb854db7446d023229bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_glass.001
+    second: {fileID: 2100000, guid: 4b5c4e5c7c7937b4baee3de6499b29d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_w_frame.001
+    second: {fileID: 2100000, guid: a865a1e1089c9414a9003ea35b570087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper.001
+    second: {fileID: 2100000, guid: f70df5a18aae1c14a9c68bf583e008b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porch_light.001
+    second: {fileID: 2100000, guid: 538d7e064f83d994cab404e8faf99e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: processed_wood_end.001
+    second: {fileID: 2100000, guid: ceab8cdc66fcfc447a933b5cfc8fcbda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof.001
+    second: {fileID: 2100000, guid: c2f5439033123764b8fecf96751db84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_walls.002
+    second: {fileID: 2100000, guid: a098397db13f1bb4790b9288a236a70a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone_walls.003
+    second: {fileID: 2100000, guid: 661afc8927dc5ba439bd7a773e76b5e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frame_medium.001
+    second: {fileID: 2100000, guid: 6434fc0717a531e4f8b5233c337f5bbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frame_small.001
+    second: {fileID: 2100000, guid: 3e01f7c3c7098cc41a4b4d255be5c6fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_frame_v2.004
+    second: {fileID: 2100000, guid: 3b812a9e6b672424cbdcf837868e09f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_boards.001
+    second: {fileID: 2100000, guid: 4524716e9de804d4fafd2786e48af6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_boards_floor.001
+    second: {fileID: 2100000, guid: 8b6d830e4f2e57a4e834f7967cace8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_boards_floor_second_story.001
+    second: {fileID: 2100000, guid: 271a0e8dd4e9627499f2cd8681928c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_boards_patio.001
+    second: {fileID: 2100000, guid: c51146c67f0954c4ebecdd2105098211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_floor
+    second: {fileID: 2100000, guid: eee590f0571679a4ba731f9437f7875d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_patio.001
+    second: {fileID: 2100000, guid: c5cf3a1f6cb9ce84fba4ada8fa08498a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_patio.003
+    second: {fileID: 2100000, guid: 49e4b69d679158346846028c3ea98e23, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
