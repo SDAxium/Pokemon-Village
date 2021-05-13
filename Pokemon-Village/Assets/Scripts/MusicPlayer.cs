@@ -6,18 +6,27 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine.Networking;
+using TMPro;
 
 
 public class MusicPlayer : MonoBehaviour
 {
+    public TextMeshProUGUI gameText;
+    
     public AudioSource source;
     public List<AudioClip> clips = new List<AudioClip>();
     private AudioClip m_CurrentClip;
     
     private int m_CurrentIndex = 0;
-    private int m_MaxIndex = 1;
+    private int m_MaxIndex = 10;
     private FileInfo[] m_SoundFiles;
     private readonly List<string> m_ValidExtensions = new List<string> { ".mp3", ".wav" };
+
+    private readonly List<string> _songNames = new List<string>
+    {
+        "Anville Town", "Azalea Town", "Bubbles Shining Over The Sea", "Cianwood City", "Dreamyard", "Emotion",
+        "Escape Through The Snow", "Eterna Forest", "Fortree City", "Littleroot Town", "Virbank City"
+    };
     
     private string m_AbsolutePath = "./Audio";
         
@@ -44,7 +53,8 @@ public class MusicPlayer : MonoBehaviour
 
     private void Update()
     {
-        
+        gameText.text = "Current Music: " + _songNames[m_CurrentIndex];
+        gameText.color = Color.white;
     }
 
     void PlayCurrent()
