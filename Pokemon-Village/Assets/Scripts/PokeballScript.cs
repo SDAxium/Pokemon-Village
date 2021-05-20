@@ -20,9 +20,10 @@ public class PokeballScript : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.R))
         {
-            Instantiate(pokemonToSpawn, this.transform.position + new Vector3(0, 0, 10), Quaternion.identity);
+            print("colliding");
+            Instantiate(pokemonToSpawn, this.transform.position + new Vector3(transform.position.x, transform.position.y, transform.position.z), Quaternion.identity);
         }
     }
 }
